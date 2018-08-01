@@ -28,7 +28,7 @@ This repository contains several projects coded by me during my online courses.
 	Week 2 Day 2 Assignment
 	- Tags: Data Processing, Input, dictionary, 
 
-## [Frequence Distribution and Test]
+## [Frequence Distribution and Test]()
 	Coded for 1 Million Women to Tech.
 	Summer of Code, July 2018
 	Week 2 Day 3 Assignment
