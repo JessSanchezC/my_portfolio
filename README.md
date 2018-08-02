@@ -4,31 +4,31 @@ This repository contains several projects coded by me during my online courses.
 
 # Python
 
-## [Continent Counter]()
+## [Continent Counter](https://github.com/JessSanchezC/my_portfolio/tree/master/Python/Continent%20Counter)
 * Coded for 1 Million Women to Tech.
   Summer of Code, July 2018
   Hackathon Week 1.
  * Tags: Lists, Recursion, Methods, Text files,If elif else, while loops. 
 
-## [Boggle Game]()
+## [Boggle Game](https://github.com/JessSanchezC/my_portfolio/tree/master/Python/Boggle%20Game)
 * Coded for 1 Million Women to Tech.
   Summer of Code, July 2018
   Hackathon Week 2.
 * Tags: List of Lists, Recursion, Methods, Text files,If elif else, while loops.
 
-## [Roman Numbers and Test]()
+## [Roman Numbers and Test](https://github.com/JessSanchezC/my_portfolio/tree/master/Python/Roman%20Numbers%20and%20Test)
 * Coded for 1 Million Women to Tech.
   Summer of Code, July 2018
   Week 2 Day 1 Assignment
 * Tags: Recursion, Unittest
 
-## [Cypher and Ceasar Cypher]()
+## [Cypher and Ceasar Cypher](https://github.com/JessSanchezC/my_portfolio/tree/master/Python/Cypher%20and%20Ceasar%20Cypher)
 * Coded for 1 Million Women to Tech.
   Summer of Code, July 2018
   Week 2 Day 2 Assignment
 * Tags: Data Processing, Input, dictionary, 
 
-## [Frequence Distribution and Test]()
+## [Frequence Distribution and Test](https://github.com/JessSanchezC/my_portfolio/tree/master/Python/Frequence%20Distribution%20and%20Test)
 * Coded for 1 Million Women to Tech.
   Summer of Code, July 2018
   Week 2 Day 3 Assignment
@@ -37,25 +37,25 @@ This repository contains several projects coded by me during my online courses.
 
 # Java:
 
-## [Trip Planner]().
+## [Trip Planner](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/TripPlanner).
 * Coded for EDX Online Course by Microsoft:
   DEV276x **Learn to Program in Java**.
   Module 1. February 2018
 * Tags - Data Types, Variables, Input
 
-## [Odds or Evens]().
+## [Odds or Evens](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Odds_Evens).
 * Coded for EDX Online Course by Microsoft:
   DEV276x **Learn to Program in Java**.
   Module 2. February 2018
   Tags - Booleans, Loops, If else, combining logic
 
-## [Maze Runner]().
+## [Maze Runner](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Maze_Runner).
 * Coded for EDX Online Course by Microsoft:
   DEV276x **Learn to Program in Java**.
   Final Project. February 2018
   Tags -  
 
-## [Crypto]().
+## [Crypto](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Crypto).
 * Coded for EDX Online Course by Microsoft:
   DEV276x **Learn to Program in Java**.
   Module 3. February 2018
