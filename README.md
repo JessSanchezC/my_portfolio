@@ -49,17 +49,17 @@ This repository contains several projects coded by me during my online courses.
   Module 2. February 2018
   Tags - Booleans, Loops, If else, combining logic
 
-## [Maze Runner](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Maze_Runner).
-* Coded for EDX Online Course by Microsoft:
-  DEV276x **Learn to Program in Java**.
-  Final Project. February 2018
-  Tags -  
-
 ## [Crypto](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Crypto).
 * Coded for EDX Online Course by Microsoft:
   DEV276x **Learn to Program in Java**.
   Module 3. February 2018
 * Tags - Returns, Data Processing, Recursion, Input
+
+## [Maze Runner](https://github.com/JessSanchezC/my_portfolio/tree/master/Java/Maze_Runner).
+* Coded for EDX Online Course by Microsoft:
+  DEV276x **Learn to Program in Java**.
+  Final Project. February 2018
+  Tags -  Returns, Data Processing, Recursion, Input, Booleans, Loops, If else, combining logic,
 
 ## [Battleship Game](https://github.com/JessSanchezC/BattleShip).
 * Coded for EDX Online Course by Microsoft: 
