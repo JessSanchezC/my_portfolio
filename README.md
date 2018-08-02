@@ -1,4 +1,4 @@
-# Coding Portfolio of Jessica Sánchez <h1> tag
+# Coding Portfolio of Jessica Sánchez <h1>
 
 This repository contains several projects coded by me during my online courses.
 
